@@ -24,6 +24,18 @@ rand();//然后产生随机数
 > 就是给这个算法一个启动种子，也就是算法的随机种子数，有这个数以后才可以产生随机数, 
 > 用1970.1.1至今的秒数，初始化随机数种子。
 
+## `#include <iterator>` 
+
+> 迭代器的头文件；
+
+​     [详细说明](<http://www.cplusplus.com/reference/iterator/>)
+
+## `#include <algorithm>` 
+
+> he header `<algorithm>` defines a collection of functions especially designed to be used on ranges of elements.
+>
+> 头文件<algorithm>定义了一系列特别设计用于元素范围的函数。
+
 ## C++中的强制转换函数
 
 - static_cast
